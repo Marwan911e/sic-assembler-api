@@ -223,4 +223,5 @@ Suggested contribution areas:
 
 ## License
 
-This project is currently distributed under the repository’s existing license metadata (`ISC` in `package.json`).
+The package metadata currently declares the license as **ISC** (`package.json`).
+If you plan to distribute this project publicly, adding a dedicated `LICENSE` file is recommended for clearer legal usage terms.
